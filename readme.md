@@ -1,10 +1,10 @@
 # Analog clock
 
-** Features **
+**Features**
 - Animated analog clock
 - On page refresh continues running
 
-** Tech **
+**The Tech**
 - HTML
 - SVG
 - CSS
@@ -17,15 +17,18 @@ Preview
 ## Notes
 
 1. The base image on to the page.
+
 ![Dark cirlcle](./images/step_1.png)
 
 2. The next step was to add CSS to the base image.
+
 ![motionless clock](./images/step_2.png)
 
 3. Final step was to add some animation by scripting the clock movement.
+
 ![in motion clock](./images/step_3.gif)
 
-## HTMl
+## HTML
 SVG was used to render the base image of the analog clock. Shown on step 1.
 
 ## CSS
