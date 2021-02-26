@@ -12,7 +12,7 @@
 
 Preview
 [Code Pen](https://codepen.io/elvingarcia/pen/RwGmjbB)
-[Personal Site]()
+
 
 ## Notes
 
